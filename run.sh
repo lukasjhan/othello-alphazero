@@ -1,0 +1,10 @@
+python3 othello.py -l
+python3 othello.py -l
+python3 othello.py -l
+python3 othello.py -l
+python3 othello.py -l
+python3 othello.py -l
+python3 othello.py -l
+python3 othello.py -l
+python3 othello.py -l
+python3 othello.py -l
